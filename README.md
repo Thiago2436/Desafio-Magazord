@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Passo a passo do Projeto</title>
+	<h2>Passo a passo do Projeto</h2>
 </head>
 <body>
 	<h1>Passo a passo do Projeto:</h1>
