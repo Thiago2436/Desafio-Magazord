@@ -1,0 +1,1 @@
+Este script cria um novo diretório para o projeto, cria um arquivo index.php com a mensagem "Hello World!", cria um arquivo Dockerfile com as instruções para criar a imagem Docker e, por fim, cria e executa o container Docker com a imagem criada. O parâmetro -p 80:80 mapeia a porta 80 do host para a porta 80 do container e o parâmetro -d executa o container em background.
