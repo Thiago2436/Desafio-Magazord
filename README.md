@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<h2>Passo a passo do Projeto</h2>
+	<h2>Thiago Martins e Martins</h2>
 </head>
 <body>
 	<h1>Passo a passo do Projeto:</h1>
