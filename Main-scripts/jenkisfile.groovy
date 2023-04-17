@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        BUCKET_NAME = "nome-do-bucket"
+        BUCKET_NAME = "backup-bucket"
         BACKUP_KEY = "backup.tar"
         BACKUP_PATH = "/tmp/backup.tar"
         AWS_REGION = "us-east-1"
